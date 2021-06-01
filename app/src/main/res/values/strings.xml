@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">TheSmartCity - VGenerator</string>
+    <string name="img_person">Img</string>
+    <string name="login_txt">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="splash_img">IMG</string>
+    <string name="visiting_card_generator">Visiting Card Generator</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_email">Reset Email</string>
+    <string name="forgetpass">forgetpassword</string>
+    <string name="visitor_registration">Visitor Registration</string>
+    <string name="form_next">form_next</string>
+    <string name="string_form_next">form_next</string>
+    <string name="show_visitors">Show Visitors</string>
+    <string name="show_all_btn">show_all_btn</string>
+    <string name="home">Home</string>
+    <string name="btn_logout">logout</string>
+    <string name="name">Name</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="no_of_guests">No Of Guests</string>
+    <string name="guest_of">Guest Of</string>
+    <string name="date">Date</string>
+    <string name="CardName">Name</string>
+    <string name="CardMobile">Mobile</string>
+    <string name="CardGuestOf">GuestOf</string>
+    <string name="Cardsend">Send</string>
+    <string name="qrImage">Image</string>
+    <string name="Submit">Submit</string>
+
+    <string name="sharing_text">Your sharing text goes here…</string>
+    <string name="share_title">Share Screenshot</string>
+    <string name="visitor_s_name">Visitor\'s Name</string>
+    <string name="register_for_visitor_coming_to_your_home">Register for visitor coming to your home</string>
+    <string name="visitor_mobile_no">Visitor Mobile No</string>
+    <string name="your_email">Your Email</string>
+    <string name="blobImage">BLOB</string>
+    <string name="visitorname">Visitor\'s Name</string>
+    <string name="visit_date">Visit Date</string>
+    <string name="logo_card">Logo</string>
+    <string name="visitors_name">Visitors Name</string>
+    <string name="your_visitors_s_list">Your Visitors\'s List</string>
+    <string name="your_visitors_list">Your Visitors List</string>
+</resources>
